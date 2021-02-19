@@ -8,6 +8,7 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
+<<<<<<< HEAD
   array.pop
 end
 
@@ -32,3 +33,13 @@ end
 
 
 
+=======
+  continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
+  continents.pop
+end
+
+def pop_with_args(array)
+  
+end
+
+>>>>>>> 76fbbe75e7af914d58c54c05588045f53a41a7c8
